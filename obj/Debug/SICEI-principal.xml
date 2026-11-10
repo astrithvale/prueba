@@ -1,0 +1,851 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SICEI-principal
+</name>
+</assembly>
+<members>
+<member name="T:SICEI_principal.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources._5e68d1c8_44fc_45b5_b82b_0a59d5afd0a3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources._5e68d1c8_44fc_45b5_b82b_0a59d5afd0a31">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.apoyo_tecnico">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.carro">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.cliente">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.Gemini_Generated_Image_hdxxszhdxxszhdxx">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.Gemini_Generated_Image_hdxxszhdxxszhdxx1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.hogar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.images">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.images1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.images2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.listas_de_control">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.MACK_PC">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.MACK_PC1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.makpcsinfondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.menu">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.ojo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.peakpx">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SICEI_principal.My.Resources.Resources.WhatsApp_Image_2026_09_18_at_11_56_56_AM">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.CATEGORIA_PRODUCTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.CLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.COTIZACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.COTIZACION_DETALLEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.DEVOLUCIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.DIAGNOSTICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.EQUIPODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.MATERIAL_UTILIZADODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.PAGO_SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.PRODUCTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.TECNICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.USUARIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENDEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENTADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENTA_DETALLEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.CATEGORIA_PRODUCTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.CLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.COTIZACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.COTIZACION_DETALLERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.DEVOLUCIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.DIAGNOSTICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.EQUIPORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.MATERIAL_UTILIZADORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.PAGO_SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.PRODUCTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.TECNICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.USUARIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENDEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENTARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENTA_DETALLERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.CATEGORIA_PRODUCTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.CLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.COTIZACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.COTIZACION_DETALLERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.DEVOLUCIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.DIAGNOSTICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.EQUIPORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.MATERIAL_UTILIZADORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.PAGO_SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.PRODUCTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.TECNICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.USUARIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENDEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENTARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet.VENTA_DETALLERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.CATEGORIA_PRODUCTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.CLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.COTIZACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.COTIZACION_DETALLETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.DEVOLUCIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.DIAGNOSTICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.EQUIPOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.MATERIAL_UTILIZADOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.PAGO_SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.PRODUCTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.TECNICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.USUARIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.VENDEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.VENTATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.VENTA_DETALLETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SICEI_principal.SICEIDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SICEI_principal.SICEIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SICEI_principal.SICEIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.UpdateAll(SICEI_principal.SICEIDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.CATEGORIA_PRODUCTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.CLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.COTIZACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.COTIZACION_DETALLEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.DEVOLUCIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.DIAGNOSTICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.EQUIPODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.MATERIAL_UTILIZADODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.PAGO_SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.PRODUCTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.TECNICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.USUARIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENDEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENTADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENTA_DETALLEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.CATEGORIA_PRODUCTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.CLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.COTIZACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.COTIZACION_DETALLERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.DEVOLUCIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.DIAGNOSTICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.EQUIPORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.MATERIAL_UTILIZADORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.PAGO_SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.PRODUCTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.TECNICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.USUARIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENDEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENTARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENTA_DETALLERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.CATEGORIA_PRODUCTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.CLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.COTIZACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.COTIZACION_DETALLERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.DEVOLUCIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.DIAGNOSTICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.EQUIPORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.MATERIAL_UTILIZADORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.PAGO_SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.PRODUCTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.TECNICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.USUARIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENDEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENTARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1.VENTA_DETALLERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.CATEGORIA_PRODUCTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.CLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.COTIZACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.COTIZACION_DETALLETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.DEVOLUCIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.DIAGNOSTICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.EQUIPOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.MATERIAL_UTILIZADOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.PAGO_SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.PRODUCTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.TECNICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.USUARIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.VENDEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.VENTATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.VENTA_DETALLETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SICEI_principal.SICEIDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SICEI_principal.SICEIDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SICEI_principal.SICEIDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.UpdateAll(SICEI_principal.SICEIDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SICEI_principal.SICEIDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
